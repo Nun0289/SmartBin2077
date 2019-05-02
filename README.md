@@ -133,17 +133,15 @@ void Line_Notify(String message) {
 #Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|![https://www.facebook.com/charoon.suthangkornkul.7](img/%20.Nun.jpg)|Nuntavat|Suthankornkul|[@Nun0289](https://github.com/Nun0289)|61070103|
+|![https://www.facebook.com/charoon.suthangkornkul.7](img/Nun.jpg)|Nuntavat|Suthankornkul|[@Nun0289](https://github.com/Nun0289)|61070103|
 |![https://www.facebook.com/vy.thananwath.9](img/ivy.jpg)|thanawath|Petavibonsatean|[@IVYSS](https://github.com/IVYSS)|61070075|
 |![https://www.facebook.com/kanyavee.tanpipat](img/jah.jpg)|Kanyawee|tanpipath|[@Kanyawee-Tanpipath](https://github.com/Kanyawee-Tanpipath)|6100010|
 
-# ![](img/Supervisor.png) Assistant Teacher
+#Assistant Teacher
 |ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
-|:-:|:-:|
-|![](img/Aj.%20Oong.png)|![](img/Aj.%20Panwit.png)|
 
-รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming (06016206)<br>
+รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming<br>
 หลักสูตรวิทยาศาสตร์บัณฑิต สาขาวิชาเทคโนโลยีสารสนเทศ<br>
-ภาคเรียนที่ 2 ปีการศึกษา 2559<br>
+ภาคเรียนที่ 2 ปีการศึกษา 2562<br>
 คณะเทคโนโลยีสารสนเทศ<br>
 สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง<br>
